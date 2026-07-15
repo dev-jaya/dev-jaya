@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jaya Bramhendra Kumar
 
-I'm a first-year B.Tech student in Computer Science and Engineering from India. I am starting my programming journey with a strong focus on building fundamental skills through the C language.
+I'm a B.Tech student in Computer Science and Engineering from India. I am starting my programming journey with a strong focus on building fundamental skills through the C,java,python language.
 
 My goal is to master the core concepts of programming and problem-solving to become a skilled and effective engineer.
 
